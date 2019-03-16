@@ -1,0 +1,28 @@
+valtoztatasok:
+50 speed
+serializefiledbe ki
+D s irnay negativ
+--
+object pooling:
+projectile corrector game compoent
+-
+ontrigger enter el nezzuk berepul e vmi
+is trigger
+collidert kiszlesitei
+ni
+projectilecreatorrt atirjuk
+-
+Alt lenyomva tartasaval es nyilakat nyomva a kijelolt kdot mozgatjuk
+then ctrl kd
+-
+then make projectile collector
+-
+library-t ha kirotlod ujra generalja
+-
+animcaioba hulabol elobe is transtition
+-
+project settings
+editor sprite packer
+.
+mip mapeles: ha mas tavolsagokban vagy sprite masmilyennek latszik (homalyosodik)
+-
